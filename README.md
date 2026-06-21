@@ -1,7 +1,12 @@
 # Inventory-System
-An Inventory System created in UE5 using C++ and Blueprints.
+A basic inventory system.
 
-## Features:
+## Features
 - Player can equip/unequip or consume items. 
 - Supports mouse and controller input. 
 - Inventory dynamically updates when comsumable items are used. 
+
+## Technologies
+- Unreal Engine 5
+- C++
+- Blueprints
